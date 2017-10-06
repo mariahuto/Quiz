@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Questionari</string>
+    <string name="pregunta">Pregunta:</string>
+    <string name="comprovar">COMPROVAR</string>
+    <string name="contenido_pregunta">Quina és la capital de Bhutan?</string>
+    <string name="missatge_incorrecte">Incorrecte...</string>
+    <string name="missatge_correcte">Correcte!</string>
+
+    <integer name="res_correcta">2</integer>
+
+    <array name="respostes">
+        <item>Ougadougou</item>
+        <item>Pnohm Penh</item>
+        <item>Thimphu</item>
+        <item>Zgighiti</item>
+    </array>
+
+</resources>

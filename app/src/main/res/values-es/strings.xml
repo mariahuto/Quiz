@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Questionario</string>
+    <string name="comprovar">COMPROBAR</string>
+    <string name="pregunta">Pregunta</string>
+    <string name="contenido_pregunta">Cuál es la capital de Bhutan?</string>
+    <string name="missatge_correcte">Correcto!</string>
+    <string name="missatge_incorrecte">Incorrecto...</string>
+</resources>
